@@ -3,7 +3,7 @@
 	<head>
 		<title>Collobarative Editor</title>
 		<script src="https://use.fontawesome.com/aac5c45839.js"></script>
-		<script src="https://www.gstatic.com/firebasejs/8.2.7/firebase-app.js"></script>
+		
 
 		<script src="form.js"></script>
 	</head>
